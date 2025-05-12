@@ -17,8 +17,8 @@ I'm currently learning **Web Development** and building projects to sharpen my s
 
 ## 🌍 Connect with Me
 
-[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/yourhandle)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://x.com/](https://x.com/AI_lovey_ou))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/ana.y37.h0)
 
 ## 🛠️ Tools I'm Using
 
