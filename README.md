@@ -5,7 +5,7 @@
 
 #### 💻 A passionate MERN Stack Developer building and learning in the world of web development.
 
-![MERN Developer Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSirNQ6maiwdpdtw3SdMHY8XcI7WktBgNeaLQ&s)
+![MERN Developer Banner](./banner.png)
 
 ---
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
