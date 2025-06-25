@@ -1,35 +1,28 @@
-# 👋 Hi, I'm Anayet
+### Hi there 👋, I am Anayet
+#### A passionate MERN Stack Developer building and learning in the world of web development.
+![A passionate MERN Stack Developer building and learning in the world of web development.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSirNQ6maiwdpdtw3SdMHY8XcI7WktBgNeaLQ&s)
 
-I'm currently learning **Web Development** and building projects to sharpen my skills.
+Hi, I’m a dedicated MERN Stack developer in training with a strong focus on real-world projects.
 
-## 🧠 What I'm Learning
+Skills: Html, Css, JavaScript, React, Tailwind Css, Mongodb
 
-- 🌐 HTML & CSS
-- 🎨 Tailwind CSS
-- 🧩 JavaScript (ES6+)
-- ⚛️ React
+- 🔭 I’m currently working on Exploring real-world projects with the MERN Stack and improving my full-stack development skills through hands-on practice. 
+- 🌱 I’m currently learning Backend development with Node.js, Express, and MongoDB 
+- 👯 I’m looking to collaborate on Beginner-friendly open source MERN projects or small web apps where I can contribute and learn teamwork and real development flow. 
+- 🤔 I’m looking for help with Structuring large-scale web apps, optimizing performance, and improving code quality in React and Node.js. 
+- 💬 Ask me about React basics,  Tailwind CSS styling,  Firebase auth,  How I’m learning full-stack as a beginner. 
+- 📫 How to reach me: mdanayet.dev@gmail.com 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I started learning web development from scratch and built my first full-stack app within 3 months using the MERN stack — with the help of consistency and passion! 🚀 
 
-## 🚀 Goals
 
-- Build real-world web apps
-- Contribute to open-source projects
-- Land my first dev job 💼
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ana-yet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ana.y37.h0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/m_anayet_h/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/ana-yet)  
 
-## 🌍 Connect with Me
+[![trophy](https://github-profile-trophy.vercel.app/?username=ana-yet)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://x.com/](https://x.com/AI_lovey_ou))
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/ana.y37.h0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-yet)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🛠️ Tools I'm Using
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-yet&show_icons=true)  
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-</p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ana-yet)  
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
