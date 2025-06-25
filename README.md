@@ -39,4 +39,4 @@ Hi, I’m a dedicated MERN Stack developer in training with a strong focus on re
 </table>
 </p>
 <br>
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
