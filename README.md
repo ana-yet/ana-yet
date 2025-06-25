@@ -30,7 +30,7 @@ Hi, I’m a dedicated MERN Stack developer in training with a strong focus on re
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ana-yet&theme=nightowl&show_icons=true&count_private=true" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ana-yet&theme=nightowl&hide_border=false" alt="ana-yet streak" />
+  <img src="https://streak-stats.demolab.com/?user=ana-yet&theme=nightowl&hide_border=false" alt="ana-yet streak" />
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ana-yet&theme=nightowl&hide_border=false&langs_count=10"/>
