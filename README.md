@@ -19,7 +19,7 @@ Hi, I’m a dedicated MERN Stack developer in training with a strong focus on re
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ana-yet)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-yet)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
