@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<br>
+
 
 ### 👋 Hi there, I am **MD Anayet Miah**
 
@@ -41,7 +41,24 @@ Hi, I’m a dedicated MERN Stack developer in training with a strong focus on re
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ana-yet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ana.y37.h0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/m_anayet_h/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/ana-yet)  
+
+<p align="left">
+  <a href="https://github.com/ana-yet" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" style="margin-right: 10px;" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/ana.y37.h0" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" style="margin-right: 10px;" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/m_anayet_h/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" style="margin-right: 10px;" />
+  </a>
+  &nbsp;
+  <a href="https://www.reddit.com/user/ana-yet" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Reddit" height="30" style="margin-right: 10px;" />
+  </a>
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ana-yet)](https://github.com/ryo-ma/github-profile-trophy)
 
