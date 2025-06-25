@@ -42,23 +42,10 @@ Hi, I’m a dedicated MERN Stack developer in training with a strong focus on re
 
 
 
-<p align="left">
-  <a href="https://github.com/ana-yet" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" style="margin-right: 10px;" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/ana.y37.h0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" style="margin-right: 10px;" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/m_anayet_h/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" style="margin-right: 10px;" />
-  </a>
-  &nbsp;
-  <a href="https://www.reddit.com/user/ana-yet" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Reddit" height="30" style="margin-right: 10px;" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ana-yet)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ana.y37.h0)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_anayet_h/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ana-yet)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ana-yet)](https://github.com/ryo-ma/github-profile-trophy)
 
