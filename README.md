@@ -41,7 +41,7 @@ Hi, I’m a dedicated MERN Stack developer in training with a strong focus on re
   I started learning web development from scratch and built my first full-stack app within 3 months using the MERN stack — with the help of consistency and passion! 🚀
 
 
-🚀 With the help of consistency and passion! 🚀
+- 🚀 With the help of consistency and passion! 🚀
 
 <!-- Portfolio resume button -->
 
