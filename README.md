@@ -41,7 +41,18 @@ Hi, I’m a dedicated MERN Stack developer in training with a strong focus on re
   I started learning web development from scratch and built my first full-stack app within 3 months using the MERN stack — with the help of consistency and passion! 🚀
 
 
+🚀 With the help of consistency and passion! 🚀
 
+<!-- Portfolio resume button -->
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/10CBvZWCYi7VctCvByVDJjnFwR2DUtLk5/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄 Resume-FFB900?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+  <a href="https://anayet-five.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-4a7c59?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
 
 <!-- GitHub Profile Trophy -->
 <div align="center">
