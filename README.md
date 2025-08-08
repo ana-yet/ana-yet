@@ -12,7 +12,8 @@
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
-Hi, I’m a dedicated MERN Stack developer in training with a strong focus on real-world projects.
+Passionate about crafting modern, scalable, and secure web applications.
+Constantly improving my skills and pushing boundaries to deliver innovative digital experiences.
 
 ---
 
@@ -37,10 +38,6 @@ Hi, I’m a dedicated MERN Stack developer in training with a strong focus on re
 - 😄 **Pronouns:**  
   He/Him
 
-- ⚡ **Fun fact:**  
-  I started learning web development from scratch and built my first full-stack app within 3 months using the MERN stack — with the help of consistency and passion! 🚀
-
-
 - 🚀 With the help of consistency and passion! 🚀
 
 <!-- Portfolio resume button -->
@@ -53,7 +50,7 @@ Hi, I’m a dedicated MERN Stack developer in training with a strong focus on re
     <img src="https://img.shields.io/badge/🌐 Portfolio-4a7c59?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
-
+<br>
 <!-- GitHub Profile Trophy -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
