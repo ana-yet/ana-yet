@@ -43,7 +43,7 @@ Constantly improving my skills and pushing boundaries to deliver innovative digi
 <!-- Portfolio resume button -->
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/10CBvZWCYi7VctCvByVDJjnFwR2DUtLk5/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/18qro8djfvlvvD4bszf8eFsPdNz6lrxZp/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄 Resume-FFB900?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <a href="https://anayet-five.vercel.app/" target="_blank">
