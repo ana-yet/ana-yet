@@ -46,7 +46,7 @@ Constantly improving my skills and pushing boundaries to deliver innovative digi
   <a href="https://drive.google.com/file/d/18qro8djfvlvvD4bszf8eFsPdNz6lrxZp/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄 Resume-FFB900?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
-  <a href="https://anayet-five.vercel.app/" target="_blank">
+  <a href="https://ana-yet.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-4a7c59?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
