@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-### 👋 Hi there, I am **MD Anayet Miah**
+### 👋 Hi there, I am **MD ANAYET MIAH**
 
 #### 💻 A passionate MERN Stack Developer building and learning in the world of web development.
 
