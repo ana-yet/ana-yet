@@ -12,33 +12,17 @@
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
-Passionate about crafting modern, scalable, and secure web applications.
-Constantly improving my skills and pushing boundaries to deliver innovative digital experiences.
+I’m a MERN & Next.js developer who enjoys building practical, fast, and clean web applications.  
+I focus on writing understandable code, learning real development patterns, and improving through consistent work.
 
 ---
 
-- 🔭 **I’m currently working on**  
-  Exploring real-world projects with the MERN Stack and improving my full-stack development skills through hands-on practice.
+- 💻 Working on: Modern full-stack projects using React, Next.js, Node.js & MongoDB  
+- 📘 Learning: API design, authentication, server-side rendering, and scalable project structure  
+- 🤝 Open to: Collaborating on real-world web apps and beginner-friendly open source projects  
+- 📫 Email: mdanayet.dev@gmail.com  
+- 🎯 Goal: Become a strong full-stack engineer with production-level skills
 
-- 🌱 **I’m currently learning**  
-  Backend development with Node.js, Express, and MongoDB.
-
-- 👯 **I’m looking to collaborate on**  
-  Beginner-friendly open source MERN projects or small web apps where I can contribute and learn teamwork and real development flow.
-
-- 🤔 **I’m looking for help with**  
-  Structuring large-scale web apps, optimizing performance, and improving code quality in React and Node.js.
-
-- 💬 **Ask me about**  
-  React basics, Tailwind CSS styling, Firebase auth, how I’m learning full-stack as a beginner.
-
-- 📫 **How to reach me:**  
-  [mdanayet.dev@gmail.com](mailto:mdanayet.dev@gmail.com)
-
-- 😄 **Pronouns:**  
-  He/Him
-
-- 🚀 With the help of consistency and passion! 🚀
 
 <!-- Portfolio resume button -->
 
