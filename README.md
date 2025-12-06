@@ -12,7 +12,7 @@
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
-I’m a MERN & Next.js developer who enjoys building practical, fast, and clean web applications.  
+I’m a Full Stack developer who enjoys building practical, fast, and clean web applications.  
 I focus on writing understandable code, learning real development patterns, and improving through consistent work.
 
 ---
