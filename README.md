@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### 👋 Hi there, I am **MD ANAYET MIAH**
-#### 💻 MERN Stack Developer | Building clean & modern web applications
+#### 💻 Full Stack Developer 
 
 ![MERN Developer Banner](./banner.png)
 
