@@ -105,9 +105,6 @@ I focus on writing understandable code, learning real development patterns, and 
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /><br>MongoDB
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /><br>Postman
-    </td>
   </tr>
 </table>
 
@@ -128,6 +125,9 @@ I focus on writing understandable code, learning real development patterns, and 
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" /><br>Netlify
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /><br>Postman
     </td>
   </tr>
 </table>
