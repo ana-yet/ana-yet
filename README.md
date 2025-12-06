@@ -82,7 +82,13 @@ I focus on writing understandable code, learning real development patterns, and 
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" /><br>JavaScript
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" /><br>TypeScript
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" /><br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" /><br>Next.js
     </td>
   </tr>
 </table>
@@ -99,10 +105,13 @@ I focus on writing understandable code, learning real development patterns, and 
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /><br>MongoDB
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /><br>Postman
+    </td>
   </tr>
 </table>
 
-### 🛠 Tools
+### 🛠 Tools & Platforms
 <table>
   <tr>
     <td align="center" width="96">
@@ -111,9 +120,17 @@ I focus on writing understandable code, learning real development patterns, and 
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" /><br>GitHub
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" /><br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" /><br>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" /><br>Netlify
+    </td>
   </tr>
 </table>
-
 <br>
 
 <!-- ========================= TROPHIES ========================= -->
