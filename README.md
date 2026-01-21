@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   
-  <h1>👋 Hi there, I am **MD ANAYET MIAH**</h1>
+  <h1>👋 Hi there, I am <b> MD ANAYET MIAH </b></h1>
   <h3>💻 Full Stack Developer | MERN & PERN Stack</h3>
 
   <p align="center">
