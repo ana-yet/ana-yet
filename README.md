@@ -53,16 +53,33 @@ I focus on writing understandable code, learning real development patterns, and 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+<div align="left">
 
-#### 🖥️ Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs)](https://skillicons.dev)
+### 🖥️ Frontend
+&emsp;
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=Tailwind-CSS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 
-#### 🧰 Backend & Database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres)](https://skillicons.dev)
+### 🧰 Backend & Database
+&emsp;
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
-#### 🛠 Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vercel,netlify,postman)](https://skillicons.dev)
+### 🛠 Tools & Platforms
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 </div>
 
