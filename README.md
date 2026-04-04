@@ -17,11 +17,10 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"/>&nbsp;**About Me**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-<pre><code># ana-yet.config.yaml
+```yaml
+# ana-yet.config.yaml
 
 name:        "MD Anayet Miah"
 role:        "Full Stack Developer"
@@ -39,14 +38,7 @@ goal: >
   with production-level skills.
 
 philosophy:  "Write code that's readable, not just runnable."
-</code></pre>
-
-    </td>
-    <td width="35%" align="right" valign="top">
-      <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" height="160px"/>
-    </td>
-  </tr>
-</table>
+```
 
 <div align="center">
 
