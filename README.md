@@ -110,12 +110,12 @@ philosophy:  "Write code that's readable, not just runnable."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ana-yet&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&ring_color=58A6FF&count_private=true" height="170px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-yet&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=8" height="170px"/>
+<img src="https://stats-six-kappa.vercel.app/api?username=ana-yet&show_icons=true" height="170px"/>
+<img src="https://stats-six-kappa.vercel.app/api/top-langs/?username=ana-yet&layout=compact" height="170px"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ana-yet&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=444c56&stroke=58A6FF20" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=ana-yet&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&stroke=30363D" width="65%"/>
 
 </div>
 
@@ -125,7 +125,7 @@ philosophy:  "Write code that's readable, not just runnable."
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ana-yet&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy-jet-zeta.vercel.app/?username=ana-yet&theme=darkhub&no-frame=true&no-bg=true" width="100%"/>
 </div>
 
 <br/>
