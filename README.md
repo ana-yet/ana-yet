@@ -112,7 +112,7 @@ philosophy:  "Write code that's readable, not just runnable."
 
 <img src="https://github-readme-stats-tau-three-81.vercel.app/api?username=ana-yet&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&border_color=30363D" height="170px"/>
 
-<img src="https://stats-six-kappa.vercel.app/api/top-langs/?username=ana-yet&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_color=30363D" height="170px"/>
+<img src="https://github-readme-stats-tau-three-81.vercel.app/api/top-langs/?username=ana-yet&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_color=30363D" height="170px"/>
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=ana-yet&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&stroke=30363D" width="65%"/>
