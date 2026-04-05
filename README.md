@@ -110,7 +110,7 @@ philosophy:  "Write code that's readable, not just runnable."
 
 <div align="center">
 
-<img src="https://stats-six-kappa.vercel.app/api?username=ana-yet&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&border_color=30363D" height="170px"/>
+<img src="https://github-readme-stats-tau-three-81.vercel.app/api?username=ana-yet&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&border_color=30363D" height="170px"/>
 
 <img src="https://stats-six-kappa.vercel.app/api/top-langs/?username=ana-yet&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_color=30363D" height="170px"/>
 <br/>
